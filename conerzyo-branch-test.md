@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: Test větvení
 ---
 
-Test větvení. Patrik.
+Test větvení - Patrik. Možná tu bude i něco dalšího.
