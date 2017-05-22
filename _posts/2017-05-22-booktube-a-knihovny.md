@@ -10,6 +10,7 @@ Obrovskou popularitu si dokáže knihovník na Facebooku získat, pokud umí dos
 
 ### Vojta
 
+![BookTube v knihovnách](\learn-jekyll\_images\booktube-knihovna.jpg)
 
 Zdroje:
 
