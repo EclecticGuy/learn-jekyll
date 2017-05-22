@@ -9,7 +9,7 @@ Booktuber není nikdo jiný, než čtenář, který vzal do ruky kameru či foť
 
 ### Patrik
 
-![Booktube je láska](\learn-jekyll\_images\booktube-je-laska.jpg)
+![Booktube je láska](\learn-jekyll\images\booktube-je-laska.jpg)
 
 Zdroje:
 

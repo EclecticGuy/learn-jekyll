@@ -9,7 +9,7 @@ Pokud se chceme bavit o jeho vlivu musíme vědět, že jeho dopad je vícestran
 
 ### Jindra
 
-![Muhehhehhehe](\learn-jekyll\_images\booktube2.jpg)
+![Muhehhehhehe](\learn-jekyll\images\booktube2.jpg)
 
 Zdroje:
 

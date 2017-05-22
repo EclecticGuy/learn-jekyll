@@ -9,7 +9,7 @@ Knižní blogerství přišlo do České republiky zejména z Ameriky. Odtud po
 
 ### Jindra
 
-![Co je to knižní blogerství?](\learn-jekyll\_images\BookTube.jpg)
+![Co je to knižní blogerství?](\learn-jekyll\images\BookTube.jpg)
 
 Zdroje:
 

@@ -10,7 +10,7 @@ Problém nastává i v kritice oblasti booktube - těžko poměřovat zajímavos
 
 ### Vojta
 
-![Píšeme a natáčíme](\learn-jekyll\_images\blogging.jpg)
+![Píšeme a natáčíme](\learn-jekyll\images\blogging.jpg)
 
 Zdroje:
 
