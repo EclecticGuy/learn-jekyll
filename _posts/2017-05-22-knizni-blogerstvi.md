@@ -13,6 +13,6 @@ Knižní blogerství přišlo do České republiky zejména z Ameriky. Odtud po
 
 Zdroje:
 
-Knižní blogerství. [online]. Copyright © 2015, ISSN 2336 [cit. 20.05.2017]. Dostupné z: [http://impulsy.kjm.cz/impulsy-clanek/blogerstvi](http://impulsy.kjm.cz/impulsy-clanek/blogerstvi)
+HAMERSKÝ, Vojtěch. Knižní blogerství [online]. Copyright © 2015, ISSN 2336 [cit. 20.05.2017]. Dostupné z: [http://impulsy.kjm.cz/impulsy-clanek/blogerstvi](http://impulsy.kjm.cz/impulsy-clanek/blogerstvi)
 
-Druhej nemáme, kdyžtak dodáme. :)
+Druhej nemáme, kdyžtak dodáme :)
