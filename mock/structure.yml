@@ -7,6 +7,10 @@
   - 2017-04-10-eclectic-embed.md
   - 2017-04-17-team.md
   - 2017-05-08-data-k-projektu.md
+  - 2017-05-22-knizni-blogerstvi.md
+  - 2017-05-22-vliv-knizniho-blogerstvi.md
+  - 2017-05-22-booktube-je-laska.md
+  - 2017-05-22-booked.md
   
 - _includes:
   - menu.md
@@ -16,6 +20,13 @@
   - default.html
   - page.html
   - post.html
+
+  _images:
+  - BookEd.jpg
+  - Books.jpg
+  - BookTube.jpg
+  - booktube2.jpg
+  - booktube-je-laska.jpg
   
 - _config.yml
 - o-projektu.md
