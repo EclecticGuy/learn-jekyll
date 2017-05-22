@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Booktube-je-laska"
+title:  "Booktube je láska"
 ---
 
 # Books + Youtube = <3
@@ -11,7 +11,8 @@ Booktuber není nikdo jiný, než čtenář, který vzal do ruky kameru či foť
 
 ![Booktube je láska](\learn-jekyll\_images\booktube-je-laska.jpg)
 
-Zdroj:
+Zdroje:
 
 [NA TOTO NEKLIKEJ!](http://magazin.dobre-knihy.cz/literani-zajimavosti/booktuberi-milovnici-knih-na-youtube/)
-Druhej nemáme, kdyžtak dodáme. :)
+
+Druhej nemáme, když tak dodáme. :)
